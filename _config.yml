@@ -47,8 +47,16 @@ navigation:
   - text: Home
     url: /
   - text: Publications
-    url: /pubs
-  - text: Misc
+    url: /publications
+  - text: Projects
+    url: /projects
+  - text: Paintings
+    url: /paintings
+  - text: Album
+    url: /album
+  - text: Blogs
+    url: /blogs
+  - text: Misc.
     url: /misc
 
 projects:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postTem
 title: Creating Python wrapper around C++ API
 date: 2013-12-23 00:18:23
 categories: ruby
