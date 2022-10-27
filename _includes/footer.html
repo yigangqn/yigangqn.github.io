@@ -1,7 +1,7 @@
 <footer class="t-hackcss-footer">
   <hr />
 
-  <h3 class="footer-heading">{{ site.title }}</h3>
+  <!-- <h3 class="footer-heading">{{ site.title }}</h3> -->
 
   <div class="grid t-hackcss-sm-reversed-grid">
 
@@ -9,16 +9,17 @@
       <div class="contact-list">
         <p>
           {{ site.your_name }},
-          <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+          <!-- <a href="mailto:{{ site.email }}">{{ site.email }}</a> -->
+          <span>{{ site.email }}</span>
         </p>
 
-        {% for social in site.social %}
+        <!-- {% for social in site.social %}
           {% assign template = social.service|prepend:"icon-"|append:".html" %}
           <span class="t-hackcss-social">
             <i class="t-hackcss-icon">{% include {{ template }} %}</i>
             <a href="{{ social.link }}">{{ social.username }}</a>
           </span>
-        {% endfor %}
+        {% endfor %} -->
       </div>
     </div>
 

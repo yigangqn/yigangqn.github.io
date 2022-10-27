@@ -1,17 +1,34 @@
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
 # Site settings
-title: jekyll-theme-hackcss
-description: > # this means to ignore newlines until "baseurl:"
-  A minimalistic theme for Jekyll, based on hack.css
-repository: https://github.com/wemake-services/jekyll-theme-hackcss
-baseurl: /jekyll-theme-hackcss  # the subpath of your site, e.g. /blog
-url: https://wemake-services.github.io  # the base hostname & protocol for your site
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Yigang Qin
+email: yigangqin2 [at] gmail [dot] com
+description: >- # this means to ignore newlines until "baseurl:"
+# Write an awesome description for your new site here. You can edit this
+# line in _config.yml. It will appear in your document head meta (for
+# Google search results) and in your feed.xml site description.
+  
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+# github_username:  jekyll
 
 # Build settings
 markdown: kramdown
@@ -21,44 +38,63 @@ sass:
   style: compressed
 
 # Theme settings
-theme_mode: markdown  # choices are: 'dark', 'standard', 'markdown'
+theme_mode: standard  # choices are: 'dark', 'standard', 'markdown'
 
 # Customizations
-your_name: wemake.services
-email: mail@sobolevn.me
+your_name: Yigang Qin
 
 navigation:
   - text: Home
     url: /
-  - text: Docs
-    url: /docs
-  - text: Examples
-    url: /examples
+  - text: Publications
+    url: /pubs
+  - text: Misc
+    url: /misc
 
 projects:
-  - name: git-secret
-    description: A bash-tool to store your private data inside a git repository.
-    link: https://sobolevn.github.io/git-secret
-    image: https://github.com/sobolevn/git-secret/blob/7c9ae0b1853d4c15549027524121b9e40219fe47/images/git-secret-sm.png?raw=true
-  - name: awesome-cryptography
-    description: A curated list of cryptography resources and links.
-    link: https://github.com/sobolevn/awesome-cryptography
-    image: https://pbs.twimg.com/profile_images/751426570607271937/vGxpniun_400x400.jpg
-  - name: ecto_autoslug_field
-    description: Automatically creates slugs for your Ecto models.
-    link: https://github.com/sobolevn/ecto_autoslug_field
-  - name: django-split-settings
-    description: Organize Django settings into multiple files and directories. Easily override and modify settings. Use wildcards and optional settings files.
-    link: https://github.com/sobolevn/django-split-settings
+  # - name: git-secret
+  #   description: A bash-tool to store your private data inside a git repository.
+  #   link: https://sobolevn.github.io/git-secret
+  #   image: https://github.com/sobolevn/git-secret/blob/7c9ae0b1853d4c15549027524121b9e40219fe47/images/git-secret-sm.png?raw=true
+  # - name: awesome-cryptography
+  #   description: A curated list of cryptography resources and links.
+  #   link: https://github.com/sobolevn/awesome-cryptography
+  #   image: https://pbs.twimg.com/profile_images/751426570607271937/vGxpniun_400x400.jpg
+  # - name: ecto_autoslug_field
+  #   description: Automatically creates slugs for your Ecto models.
+  #   link: https://github.com/sobolevn/ecto_autoslug_field
+  # - name: django-split-settings
+  #   description: Organize Django settings into multiple files and directories. Easily override and modify settings. Use wildcards and optional settings files.
+  #   link: https://github.com/sobolevn/django-split-settings
 
 social:
-  - service: github
-    username: sobolevn
-    link: https://github.com/sobolevn
-  - service: twitter
-    username: sobolevn
-    link: https://twitter.com/sobolevn
+  # - service: github
+  #   username: sobolevn
+  #   link: https://github.com/sobolevn
+  # - service: twitter
+  #   username: sobolevn
+  #   link: https://twitter.com/sobolevn
 
-# Plugins
-gems:
+plugins:
+  - jekyll-feed
   - jekyll-seo-tag
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

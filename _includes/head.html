@@ -16,7 +16,8 @@
   <!-- hack.css -->
   <link rel="stylesheet" href="https://npmcdn.com/hack/dist/hack.css" />
   {% if site.theme_mode == 'standard' %}
-  <link rel="stylesheet" href="https://npmcdn.com/hack/dist/standard.css" />
+  <link rel="stylesheet" href="{{ "/css/std.css" | prepend: site.baseurl }}" />
+  <!-- <link rel="stylesheet" href="https://npmcdn.com/hack/dist/standard.css" /> -->
   {% elsif site.theme_mode == 'dark' %}
   <link rel="stylesheet" href="https://npmcdn.com/hack/dist/dark.css" />
   {% endif %}
@@ -28,8 +29,8 @@
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}" />
 
   <!-- Feed -->
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}"
-        href="{{ "/feed.xml" | prepend: site.baseurl }}" />
+  <!-- <link rel="alternate" type="application/rss+xml" title="{{ site.title }}"
+        href="{{ "/feed.xml" | prepend: site.baseurl }}" /> -->
 
   <!-- 'jekyll-seo' plugin -->
   {% seo %}
