@@ -87,6 +87,34 @@
   }
 }
 
-main {
-  margin-left: 10px;
+// main {
+//   margin-left: 20px;
+// }
+
+// album
+div.album {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+div.albumItem {
+  margin: 5px;
+  border: 1px solid #ccc;
+  // float: left;
+  width: 180px;
+}
+
+div.albumItem:hover {
+  border: 1px solid #777;
+}
+
+div.albumItem img {
+  width: 100%;
+  height: auto;
+}
+
+div.albumItem {
+  padding: 15px;
+  text-align: center;
 }
