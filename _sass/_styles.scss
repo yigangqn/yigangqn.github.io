@@ -87,15 +87,18 @@
   }
 }
 
-// main {
-//   margin-left: 20px;
-// }
+main {
+  margin-left: 0;
+}
 
 // album
 div.album {
   display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-items: flex-start;
+  align-content: flex-starts;
+  gap: 30px 15px;
 }
 
 div.albumItem {
