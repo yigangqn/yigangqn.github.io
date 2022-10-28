@@ -1,9 +1,10 @@
 html {
-    font-size: 14px
+    font-size: 14px;
 }
 
 .standard {
-    font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
+    /* font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif; */
+    font-family: -apple-system,BlinkMacSystemFont,avenir next,avenir,helvetica,helvetica neue,Ubuntu,segoe ui,arial,sans-serif;
 }
 
 .standard h1 {
@@ -15,7 +16,7 @@ html {
 .standard h2 {
     font-size: 1.5em;
     font-weight: 700;
-    margin: .83em 0
+    margin: 4em 0 1.5em 0;
 }
 
 .standard h3 {
@@ -25,7 +26,8 @@ html {
 
 .standard h3,
 .standard p {
-    margin: 1.75rem 0
+    margin: 1.75rem 0;
+    color: #444;
 }
 
 .standard ol,

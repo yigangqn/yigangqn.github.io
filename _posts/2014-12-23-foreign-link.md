@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: postTem
 title: Testing bash applications
 date: 2014-01-15 00:18:23
 author: sobolevn

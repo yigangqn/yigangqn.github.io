@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: defaultTem
 title: About
 permalink: /about/
 ---
