@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Yigang Qin
+title: Yigang Qin | Cloudbase
 email: yigangqin2 [at] gmail [dot] com
 description: >- # this means to ignore newlines until "baseurl:"
 # Write an awesome description for your new site here. You can edit this
@@ -46,18 +46,18 @@ your_name: Yigang Qin
 navigation:
   - text: Home
     url: /
-  # - text: publications
-    # url: /publications
-  # - text: projects
-    # url: /projects
+  - text: Publications
+    url: /publications
+  - text: Projects
+    url: /projects
   - text: Paintings
     url: /paintings
-  - text: Album
-    url: /album
-  - text: Blogs
-    url: /blogs
-  - text: Misc.
-    url: /misc
+  - text: Albums
+    url: /album_all
+  # - text: Blogs
+    # url: /blogs
+  # - text: Misc.
+    # url: /misc
 
 projects:
   # - name: git-secret
@@ -86,6 +86,10 @@ social:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+# include: [
+#   'albums'
+# ]
 
 # Exclude from processing.
 # The following items will not be processed, by default.

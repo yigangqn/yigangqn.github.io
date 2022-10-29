@@ -87,6 +87,17 @@
   }
 }
 
+// index page
+div.me img {
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+}
+// description of my profile
+div.me img + span {
+  color: #bbb;
+}
+
 // publication
 span.title {
   display: block;
@@ -95,29 +106,59 @@ span.title {
   margin-bottom: 10px;
 }
 
-// album
+// album all
 div.album {
   display: flex;
   flex-flow: row wrap;
   justify-content: space-around;
-  align-items: flex-start;
+  align-items: center;
   align-content: flex-starts;
-  gap: 30px 0;  // vertical horizontal
+  gap: 50px 0;  // vertical horizontal
   margin-top: 100px;
 }
-
-div.albumItem {
-  width: 300px;
-  height: auto;
-  text-align: center;
-  color: #ccc;
+div.strip {
+  width: 70%;
 }
-
-div.albumItem:hover {
-  border: 1px solid #ccc;
-}
-
-div.albumItem img {
+div.strip img {
   width: 100%;
   height: auto;
 }
+
+// single album
+div.album-content {
+  margin-top: 100px;
+}
+div.album-content img {
+  display: block;
+  margin: 0 auto;
+  // width: 90%;
+}
+div.album-content img + em {
+  font-style: normal;
+  color: #bbb;
+  display: block;
+  text-align: center;
+}
+
+// paintings
+div.paintItem {
+  width: 500px;
+  height: auto;
+  text-align: left;
+  color: #bbb;
+}
+div.paintItem img {
+  width: 100%;
+  height: auto;
+}
+
+// div.albumItem {
+//   width: 600px;
+//   height: auto;
+//   text-align: left;
+//   color: #bbb;
+// }
+// div.albumItem img {
+//   width: 100%;
+//   height: auto;
+// }
