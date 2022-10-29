@@ -22,10 +22,7 @@ title: Yigang Qin | Cloudbase
 email: yigangqin2 [at] gmail [dot] com
 # this means to ignore newlines until "baseurl:"
 description: >
-  My name's Yigang Qin. I'm an undergraduate computer science student at the 
-  City University of Hong Kong. My research interests broadly cover 
-  human-computer interaction (HCI), social computing, critical computing, 
-  and infrastructure studies.
+This is Yigang Qin's virtual existence.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
