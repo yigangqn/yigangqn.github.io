@@ -20,15 +20,13 @@
 
 title: Yigang Qin | Cloudbase
 email: yigangqin2 [at] gmail [dot] com
-description: > # this means to ignore newlines until "baseurl:"
-# Write an awesome description for your new site here. You can edit this
-# line in _config.yml. It will appear in your document head meta (for
-# Google search results) and in your feed.xml site description.
-My name's Yigang Qin. I'm an undergraduate computer science student at the 
-City University of Hong Kong. My research interests broadly cover 
-human-computer interaction (HCI), social computing, critical computing, 
-and infrastructure studies.
-  
+# this means to ignore newlines until "baseurl:"
+description: >
+  My name's Yigang Qin. I'm an undergraduate computer science student at the 
+  City University of Hong Kong. My research interests broadly cover 
+  human-computer interaction (HCI), social computing, critical computing, 
+  and infrastructure studies.
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
