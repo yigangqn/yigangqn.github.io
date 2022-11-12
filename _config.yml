@@ -47,8 +47,8 @@ your_name: Yigang Qin
 navigation:
   - text: Home
     url: /
-  - text: Publications
-    url: /publications
+  - text: Papers
+    url: /papers
   - text: Projects
     url: /projects
   - text: Paintings
