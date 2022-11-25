@@ -1,6 +1,6 @@
 ---
 layout: singleAlbumTem
-title: Supporting Education. Yunnan, China
+title: Support Education. Yunnan, China
 ---
 
 <img src="/assets/photos/yunnan/classroom.jpg" alt width="500" />
