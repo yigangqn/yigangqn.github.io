@@ -6,7 +6,7 @@ title: Support Education. Yunnan, China
 <img src="/assets/photos/yunnan/classroom.jpg" alt width="500" />
 *Our classrooms have books and handmade materials for little children. Zifan Village (子反坝), Yiliang (彝良). Summer 2021.*
 
-I'll add some stuff to this page later. I thank all the lovely kids and owe them a deep apology for all those we would have improved. I wish they have a happy future with happy and dignity.
+I'll add some stuff to this page later. I thank all the lovely kids and owe them a deep apology for all those we would have improved. I wish they have a happy future with love and dignity.
 
 <img src="/assets/photos/yunnan/girl-door.jpg" alt width="714" />
 *A girl was sitting near the house door. This family has relatively good conditions, with ceramic tiles in the house's front. Zifan Village (子反坝), Yigang (彝良). Summer 2021.*
