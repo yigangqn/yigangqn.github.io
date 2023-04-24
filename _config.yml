@@ -49,10 +49,6 @@ navigation:
     url: /
   - text: Papers
     url: /papers
-  - text: Projects
-    url: /projects
-  - text: Paintings
-    url: /paintings
   - text: Albums
     url: /album_all
   # - text: Blogs
