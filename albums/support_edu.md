@@ -4,29 +4,25 @@ title: Support Education. Yunnan, China
 ---
 
 <img src="/assets/photos/yunnan/classroom.jpg" alt width="500" />
-*Our classrooms have books and handmade materials for little children. Zifan Village (子反坝), Yiliang (彝良). Summer 2021.*
+*Our classrooms have books and handmade materials for children. Zifan Village (子反坝), Yiliang (彝良). Summer 2021.*
 
 <img src="/assets/photos/yunnan/girl-door.jpg" alt width="714" />
-*A girl was sitting near the house door. This family has relatively good conditions, with ceramic tiles in the house's front. Zifan Village (子反坝), Yigang (彝良). Summer 2021.*
-
-<!-- <img src="/assets/photos/yunnan/lunch.jpg" alt width="714" /> -->
+*Girl sitting aside the front door of a ceramic-tiled house. Zifan Village (子反坝), Yigang (彝良). Summer 2021.*
 
 <img src="/assets/photos/yunnan/hotpot.JPG" alt width="500" />
-*We cooked a vegetable hotpot ourselves. And for some children! Haozhi Village (蒿枝坝), Yiliang (彝良). Summer 2021.*
+*Vegetable hotpot for ourselves and for some children. Haozhi Village (蒿枝坝), Yiliang (彝良). Summer 2021.*
 
 <img src="/assets/photos/yunnan/horse.JPG" alt width="714" />
-*Ziyi, our colleague, collected a bunch of wildflowers to decorate our office. And now, she was attracted by a horse. Haozhi Village (蒿枝坝), Yiliang (彝良). Summer 2021.*
+*Ziyi, our colleague, collected a bunch of wildflowers to decorate our office. Who can tell was the horse attracted by her or the reverse? Haozhi Village (蒿枝坝), Yiliang (彝良). Summer 2021.*
 
 <img src="/assets/photos/yunnan/bubble.jpg" alt width="500" />
-*A child was blowing bubbles with a toy. He often came here to play with other kids or us teachers. He showd us the small grocery store the first day. Haozhi Village (蒿枝坝), Yiliang (彝良). Summer 2021.*
-
-<!-- <img src="/assets/photos/yunnan/say-yes.jpg" alt width="400" /> -->
+*Child blowing bubbles. He showd us the small grocery store in the village the first day. Haozhi Village (蒿枝坝), Yiliang (彝良). Summer 2021.*
 
 <img src="/assets/photos/yunnan/girl-lunchbox.JPG" alt width="714" />
-*Kids were having lunch after their performance finished. A little girl's looking at my camera. She's quiet and shy in classes as well but is someone who has a kind mind. Haozhi Village (蒿枝坝), Yiliang (彝良). Summer 2021.*
+*While kids were having lunch after their performance, a little girl was looking at my camera. She was quiet and shy in classes. Haozhi Village (蒿枝坝), Yiliang (彝良). Summer 2021.*
 
 <img src="/assets/photos/yunnan/performance.JPG" alt width="500" />
-*On the second last day of our staying in the school, kids were performing for their parents and villagers. They put a lot of effort into the weeks-long course of practice. Haozhi Village (蒿枝坝), Yiliang (彝良). Summer 2021.*
+*Two days before our leave, kids performed to their parents and the villagers after weeks of practice. Haozhi Village (蒿枝坝), Yiliang (彝良). Summer 2021.*
 
 <img src="/assets/photos/yunnan/mountain-view.jpg" alt width="714" />
-*At about 7 pm, I captured the distant view of the mountain before the shade climbed up to the top. Haozhi Village (蒿枝坝), Yiliang (彝良). Summer 2021.*
+*At about 7 pm, I captured the distant view of the mountain top before the shade climbed up. Haozhi Village (蒿枝坝), Yiliang (彝良). Summer 2021.*
