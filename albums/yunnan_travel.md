@@ -1,6 +1,6 @@
 ---
 layout: singleAlbumTem
-title: Traveling in Yunnan, China
+title: Traveling in Yunnan
 ---
 
 <img src="/assets/photos/yunnan/blue-moon.jpeg" alt width="714" />

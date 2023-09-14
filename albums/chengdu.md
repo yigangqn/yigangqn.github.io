@@ -1,6 +1,6 @@
 ---
 layout: singleAlbumTem
-title: Chengdu, Sichuan, China.
+title: Chengdu
 ---
 
 <img src="/assets/photos/prayer-flags_strip.jpg" alt width="714" />

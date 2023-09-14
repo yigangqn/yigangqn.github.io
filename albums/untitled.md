@@ -32,3 +32,7 @@ title: Untitled
 <br/>
 
 <img src="/assets/photos/untitled/tower.jpg" alt width="358"/>
+
+<br />
+
+<img src="/assets/photos/untitled/osaka%20aquarium.jpg" alt width="714">

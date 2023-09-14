@@ -1,6 +1,6 @@
 ---
 layout: singleAlbumTem
-title: Knoxville TN, USA
+title: Knoxville
 ---
 
 <img src="/assets/photos/US/UTK-housing.jpg" alt width="714" />
