@@ -2,9 +2,50 @@ html {
     font-size: 14px;
 }
 
+.horizontal {
+    display: flex;
+    flex-direction: row;
+    /* border: 2px solid red; */
+    align-items: start;
+}
+
+.horizontal section {
+    padding: 10px;
+    margin-top: 60px;
+    text-align: justify;
+}
+
+.me {
+    width: 100%;
+    padding-top: 2em;
+    padding-left: 1.5em;
+}
+
+.paperBundle {
+    display: flex;
+    flex-direction: row;
+    align-items: start;
+    margin-bottom: 5em;
+}
+
+.paperBundle div {
+    width: 60%;
+}
+
+.paperCovers {
+    width: 40%;
+    height: auto;
+    margin-right: 1.5em;
+}
+
+.paperCovers img {
+    width: 100%;
+}
+
 .standard {
     /* font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif; */
-    font-family: -apple-system,BlinkMacSystemFont,avenir next,avenir,helvetica,helvetica neue,Ubuntu,segoe ui,arial,sans-serif;
+    font-family: Optima, Candara, 'Noto Sans', source-sans-pro, sans-serif;
+    
 }
 
 .standard h1 {

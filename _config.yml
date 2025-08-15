@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Yigang Qin's Cloudbase
+title: Yigang Qin
 email: yqin27@syr.edu
 # this means to ignore newlines until "baseurl:"
 description: >
-  Yigang Qin's online presence.
+  Yigang Qin's digital presence on the Internet.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -44,7 +44,7 @@ theme_mode: standard  # choices are: 'dark', 'standard', 'markdown'
 your_name: Yigang Qin
 
 navigation:
-  - text: Home
+  - text: Abode
     url: /
   - text: Articles
     url: /articles
