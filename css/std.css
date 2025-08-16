@@ -6,19 +6,21 @@ html {
     display: flex;
     flex-direction: row;
     /* border: 2px solid red; */
-    align-items: start;
 }
 
-.horizontal section {
-    padding: 10px;
-    margin-top: 60px;
+/* .horizontal div {    
+    border: 2px solid pink;
+} */
+
+.horizontal .text {
+    width: 50%;
     text-align: justify;
 }
 
-.me {
-    width: 100%;
-    padding-top: 2em;
-    padding-left: 1.5em;
+.horizontal .me {
+    width: 50%;
+    margin-top: 10em;
+    padding-left: 2em;
 }
 
 .paperBundle {
@@ -91,7 +93,8 @@ html {
 
 .standard li {
     display: list-item;
-    padding-left: 0
+    padding-left: 0;
+    color: #444;
 }
 
 .standard blockquote {
