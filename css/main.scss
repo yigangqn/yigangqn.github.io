@@ -5,16 +5,16 @@
 @charset "utf-8";
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@use "variables";
+@use "variables" as *;
 @use "mixins";
 @use "styles";
 @use "highlight";
 
-@mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
-}
+// @mixin media-query($device) {
+//     @media screen and (max-width: $device) {
+//         @content;
+//     }
+// }
 
 
 
