@@ -1,6 +1,6 @@
 ---
 layout: singleAlbumTem
-title: Osaka (大阪), Kyoto (京都), Nara (奈良), & Koyasan (高野山)
+title: Osaka 大阪, Kyoto 京都, Nara 奈良, & Koyasan 高野山
 ---
 
 <img src="/assets/photos/japan/architecture.jpg" alt width="714" />
@@ -37,7 +37,7 @@ title: Osaka (大阪), Kyoto (京都), Nara (奈良), & Koyasan (高野山)
 *Port night. Osaka, Japan. Summer 2023.*
 
 <img src="/assets/photos/japan/red%20hat.jpg" alt width="714" />
-*Red hat in Okunoin (奥の院). Kayasan, Japan. Summer 2023.*
+*Red hat in Okunoin (奥の院). Koyasan, Japan. Summer 2023.*
 
 <img src="/assets/photos/japan/room.jpg" alt width="714" />
 *Temple room. Koyasan, Japan. Summer 2023.*
