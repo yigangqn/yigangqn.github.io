@@ -1,14 +1,11 @@
 // This file contains custom (non hack.css) styles
 
-@use "variables";
-@use "mixins";
-
 .t-hackcss {  // Main prefix to avoid collisions
 
   // navigation.html
 
   &-navigation {
-    padding-right: variables.$spacing-unit;
+    padding-right: $spacing-unit;
   }
 
   @at-root .hack &-navigation-heading {
@@ -18,7 +15,7 @@
   // footer.html
 
   @at-root body &-footer {
-    padding-bottom: variables.$spacing-unit;
+    padding-bottom: $spacing-unit;
   }
 
   &-social {
@@ -26,11 +23,11 @@
   }
 
   &-social + &-social {
-    padding-left: variables.$spacing-unit;
+    padding-left: $spacing-unit;
   }
 
   &-sm-reversed-grid.grid {
-    @include mixins.media-query(variables.$on-palm) {
+    @include media-query($on-palm) {
       flex-direction: column-reverse;
     }
   }
@@ -38,11 +35,11 @@
   &-icon {
     display: inline-block;
     vertical-align: middle;
-    width: variables.$icon-size;
-    height: variables.$icon-size;
+    width: $icon-size;
+    height: $icon-size;
 
     > svg {
-      width: variables.$icon-size;
+      width: $icon-size;
     }
   }
 
@@ -53,7 +50,7 @@
   }
 
   &-media-shift {
-    max-width: variables.$image-size;
+    max-width: $image-size;
   }
 
   &-media-image {
@@ -64,14 +61,14 @@
 
   &-cards {
     flex-wrap: wrap;
-    @include mixins.media-query(variables.$on-palm) {
+    @include media-query($on-palm) {
       flex-wrap: nowrap;
     }
   }
 
   &-cards-cell {
-    padding-bottom: variables.$spacing-unit;
-    padding-right: variables.$spacing-unit;
+    padding-bottom: $spacing-unit;
+    padding-right: $spacing-unit;
   }
 
   &-cards-text {

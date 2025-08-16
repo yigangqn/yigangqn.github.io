@@ -1,20 +1,28 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-
 @charset "utf-8";
 
+
+
+// Our variables
+$spacing-unit:     20px;
+$image-size:       50px;
+$icon-size:        15px;
+
+
+// Sizes
+$on-palm:          768px;
+
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+
 // Import partials from `sass_dir` (defaults to `_sass`)
-@use "variables" as *;
-@use "mixins";
-@use "styles";
-@use "highlight";
-
-// @mixin media-query($device) {
-//     @media screen and (max-width: $device) {
-//         @content;
-//     }
-// }
-
-
-
+@import
+        "styles",
+        "highlight"
+;
